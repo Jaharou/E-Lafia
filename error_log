@@ -1,0 +1,4 @@
+[18-Sep-2022 17:32:03 UTC] PHP Warning:  require_once(/home/rfcodingco/public_html/lms/system/core/CodeIgniter.php): failed to open stream: No such file or directory in /home/rfcodingco/public_html/lms/index.php on line 289
+[18-Sep-2022 17:32:03 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rfcodingco/public_html/lms/system/core/CodeIgniter.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/rfcodingco/public_html/lms/index.php on line 289
+[18-Sep-2022 17:32:08 UTC] PHP Warning:  require_once(/home/rfcodingco/public_html/lms/system/core/CodeIgniter.php): failed to open stream: No such file or directory in /home/rfcodingco/public_html/lms/index.php on line 289
+[18-Sep-2022 17:32:08 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/rfcodingco/public_html/lms/system/core/CodeIgniter.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/rfcodingco/public_html/lms/index.php on line 289
